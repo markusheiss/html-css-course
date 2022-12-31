@@ -47,3 +47,16 @@
 - Placing and Spanning Grid items
 - Aligning Grid items and Tracks
 - Building a simple CSS Grid Layout
+
+# Web Design Rules and Framework
+
+- Overview of Web Design
+- Typography
+- Colors
+- Images and Illustrations
+- Icons
+- Shadows
+- Border-radius
+- Whitespace
+- Visual Hierarchy
+- User Experience (UX)
