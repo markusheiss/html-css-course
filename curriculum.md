@@ -60,3 +60,12 @@
 - Whitespace
 - Visual Hierarchy
 - User Experience (UX)
+
+# Components and Layout Patterns
+
+- Building an Accordion Component
+- Building a Carousel Component
+- Building a table Component
+- Building a pagination Component
+- Building a Hero Section
+- Building a Web Application Layout
